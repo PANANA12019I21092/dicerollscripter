@@ -1,0 +1,2 @@
+# dicerollscripter
+winner100%
