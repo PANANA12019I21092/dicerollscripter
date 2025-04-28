@@ -1,0 +1,5 @@
+int= scripter.exe
+scripter.exe = 64
+main
+if(get(number((1-100)(50<100))open(cmd(scripter.exe(and(80>))))))
+end
